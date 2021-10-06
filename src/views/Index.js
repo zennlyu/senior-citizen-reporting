@@ -38,7 +38,6 @@ function Index() {
       <IndexNavbar />
       <IndexHeader />
       <div className="main">
-          <RegisterPage />
           <SectionTypoIllus />
           <SectionMarkdown />
       </div>
