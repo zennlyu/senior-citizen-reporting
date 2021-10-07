@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/senior-citizen-reporting/static/css/main.c9e4dd0f.chunk.css",
-    "main.js": "/senior-citizen-reporting/static/js/main.5a27ebd1.chunk.js",
-    "main.js.map": "/senior-citizen-reporting/static/js/main.5a27ebd1.chunk.js.map",
+    "main.css": "/senior-citizen-reporting/static/css/main.a1b081d2.chunk.css",
+    "main.js": "/senior-citizen-reporting/static/js/main.04d1adba.chunk.js",
+    "main.js.map": "/senior-citizen-reporting/static/js/main.04d1adba.chunk.js.map",
     "runtime-main.js": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js",
     "runtime-main.js.map": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js.map",
     "static/css/2.7ab6f613.chunk.css": "/senior-citizen-reporting/static/css/2.7ab6f613.chunk.css",
-    "static/js/2.75599afd.chunk.js": "/senior-citizen-reporting/static/js/2.75599afd.chunk.js",
-    "static/js/2.75599afd.chunk.js.map": "/senior-citizen-reporting/static/js/2.75599afd.chunk.js.map",
+    "static/js/2.458b0416.chunk.js": "/senior-citizen-reporting/static/js/2.458b0416.chunk.js",
+    "static/js/2.458b0416.chunk.js.map": "/senior-citizen-reporting/static/js/2.458b0416.chunk.js.map",
     "index.html": "/senior-citizen-reporting/index.html",
     "static/css/2.7ab6f613.chunk.css.map": "/senior-citizen-reporting/static/css/2.7ab6f613.chunk.css.map",
-    "static/css/main.c9e4dd0f.chunk.css.map": "/senior-citizen-reporting/static/css/main.c9e4dd0f.chunk.css.map",
-    "static/js/2.75599afd.chunk.js.LICENSE.txt": "/senior-citizen-reporting/static/js/2.75599afd.chunk.js.LICENSE.txt",
+    "static/css/main.a1b081d2.chunk.css.map": "/senior-citizen-reporting/static/css/main.a1b081d2.chunk.css.map",
+    "static/js/2.458b0416.chunk.js.LICENSE.txt": "/senior-citizen-reporting/static/js/2.458b0416.chunk.js.LICENSE.txt",
     "static/media/2010至2020我国老年人口数及占总人口比例的变化.gif": "/senior-citizen-reporting/static/media/2010至2020我国老年人口数及占总人口比例的变化.5258d290.gif",
     "static/media/2016年至2021年互联网网民数量及普及率.gif": "/senior-citizen-reporting/static/media/2016年至2021年互联网网民数量及普及率.aafa8d9a.gif",
     "static/media/2016年至2021年网民年龄结构变化.gif": "/senior-citizen-reporting/static/media/2016年至2021年网民年龄结构变化.ffea008a.gif",
@@ -42,9 +42,9 @@
     "static/media/封面图2.jpg": "/senior-citizen-reporting/static/media/封面图2.167b7fdc.jpg",
     "static/media/房子.png": "/senior-citizen-reporting/static/media/房子.f8949a3d.png",
     "static/media/手机.png": "/senior-citizen-reporting/static/media/手机.63f869e5.png",
-    "static/media/故事1.jpg": "/senior-citizen-reporting/static/media/故事1.b133ec6a.jpg",
-    "static/media/故事2.jpg": "/senior-citizen-reporting/static/media/故事2.6da6b234.jpg",
-    "static/media/故事3.jpg": "/senior-citizen-reporting/static/media/故事3.44ccec23.jpg",
+    "static/media/故事1.jpg": "/senior-citizen-reporting/static/media/故事1.5a20dd91.jpg",
+    "static/media/故事2.jpg": "/senior-citizen-reporting/static/media/故事2.ea19b0f8.jpg",
+    "static/media/故事3.jpg": "/senior-citizen-reporting/static/media/故事3.8288da9c.jpg",
     "static/media/方案.png": "/senior-citizen-reporting/static/media/方案.79115606.png",
     "static/media/时钟.png": "/senior-citizen-reporting/static/media/时钟.cc9e35a3.png",
     "static/media/汽车.png": "/senior-citizen-reporting/static/media/汽车.4aead77d.png",
@@ -64,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b86347a.js",
     "static/css/2.7ab6f613.chunk.css",
-    "static/js/2.75599afd.chunk.js",
-    "static/css/main.c9e4dd0f.chunk.css",
-    "static/js/main.5a27ebd1.chunk.js"
+    "static/js/2.458b0416.chunk.js",
+    "static/css/main.a1b081d2.chunk.css",
+    "static/js/main.04d1adba.chunk.js"
   ]
 }
