@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/senior-citizen-reporting/static/css/main.a1b081d2.chunk.css",
-    "main.js": "/senior-citizen-reporting/static/js/main.ec47d0e7.chunk.js",
-    "main.js.map": "/senior-citizen-reporting/static/js/main.ec47d0e7.chunk.js.map",
+    "main.js": "/senior-citizen-reporting/static/js/main.ec0e6422.chunk.js",
+    "main.js.map": "/senior-citizen-reporting/static/js/main.ec0e6422.chunk.js.map",
     "runtime-main.js": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js",
     "runtime-main.js.map": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js.map",
     "static/css/2.7ab6f613.chunk.css": "/senior-citizen-reporting/static/css/2.7ab6f613.chunk.css",
-    "static/js/2.afbbb7c4.chunk.js": "/senior-citizen-reporting/static/js/2.afbbb7c4.chunk.js",
-    "static/js/2.afbbb7c4.chunk.js.map": "/senior-citizen-reporting/static/js/2.afbbb7c4.chunk.js.map",
+    "static/js/2.5424df2a.chunk.js": "/senior-citizen-reporting/static/js/2.5424df2a.chunk.js",
+    "static/js/2.5424df2a.chunk.js.map": "/senior-citizen-reporting/static/js/2.5424df2a.chunk.js.map",
     "index.html": "/senior-citizen-reporting/index.html",
     "static/css/2.7ab6f613.chunk.css.map": "/senior-citizen-reporting/static/css/2.7ab6f613.chunk.css.map",
     "static/css/main.a1b081d2.chunk.css.map": "/senior-citizen-reporting/static/css/main.a1b081d2.chunk.css.map",
-    "static/js/2.afbbb7c4.chunk.js.LICENSE.txt": "/senior-citizen-reporting/static/js/2.afbbb7c4.chunk.js.LICENSE.txt",
+    "static/js/2.5424df2a.chunk.js.LICENSE.txt": "/senior-citizen-reporting/static/js/2.5424df2a.chunk.js.LICENSE.txt",
     "static/media/2010至2020我国老年人口数及占总人口比例的变化.gif": "/senior-citizen-reporting/static/media/2010至2020我国老年人口数及占总人口比例的变化.5258d290.gif",
     "static/media/2016年至2021年互联网网民数量及普及率.gif": "/senior-citizen-reporting/static/media/2016年至2021年互联网网民数量及普及率.aafa8d9a.gif",
     "static/media/2016年至2021年网民年龄结构变化.gif": "/senior-citizen-reporting/static/media/2016年至2021年网民年龄结构变化.ffea008a.gif",
@@ -40,6 +40,8 @@
     "static/media/时钟.png": "/senior-citizen-reporting/static/media/时钟.cc9e35a3.png",
     "static/media/第七次全国人口普查老年人口占比.png": "/senior-citizen-reporting/static/media/第七次全国人口普查老年人口占比.fb4c9234.png",
     "static/media/简易模式.png": "/senior-citizen-reporting/static/media/简易模式.afa5d42d.png",
+    "static/media/老年人.png": "/senior-citizen-reporting/static/media/老年人.adb837ea.png",
+    "static/media/老年人2.png": "/senior-citizen-reporting/static/media/老年人2.c99f0695.png",
     "static/media/老年人上网遇到的困难.gif": "/senior-citizen-reporting/static/media/老年人上网遇到的困难.24336220.gif",
     "static/media/老年人使用手机.jpg": "/senior-citizen-reporting/static/media/老年人使用手机.86070d57.jpg",
     "static/media/老年人使用手机1.jpg": "/senior-citizen-reporting/static/media/老年人使用手机1.f85127e2.jpg",
@@ -55,8 +57,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b86347a.js",
     "static/css/2.7ab6f613.chunk.css",
-    "static/js/2.afbbb7c4.chunk.js",
+    "static/js/2.5424df2a.chunk.js",
     "static/css/main.a1b081d2.chunk.css",
-    "static/js/main.ec47d0e7.chunk.js"
+    "static/js/main.ec0e6422.chunk.js"
   ]
 }
