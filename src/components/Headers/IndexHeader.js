@@ -21,12 +21,12 @@ function IndexHeader() {
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">逃不掉的银发困境？</h1>
+              <h1 className="presentation-title">逃不掉的"银发困境"？</h1>
             </div>
             <br/>
             <br/>
             <br/>
-            <h4 className="presentation-subtitle text-center">
+            <h4 className="presentation-subtitle">
               “他们中，大多人前三分之二的岁月中，科技和互联网是日常生活的罕见词。但在人生的后半程，他们如坐过山车般经历了一场又一场信息迭代。”
               <br/>
               <br/>
