@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/senior-citizen-reporting/static/css/main.a1b081d2.chunk.css",
-    "main.js": "/senior-citizen-reporting/static/js/main.ec0e6422.chunk.js",
-    "main.js.map": "/senior-citizen-reporting/static/js/main.ec0e6422.chunk.js.map",
+    "main.js": "/senior-citizen-reporting/static/js/main.d90a73fe.chunk.js",
+    "main.js.map": "/senior-citizen-reporting/static/js/main.d90a73fe.chunk.js.map",
     "runtime-main.js": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js",
     "runtime-main.js.map": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js.map",
     "static/css/2.7ab6f613.chunk.css": "/senior-citizen-reporting/static/css/2.7ab6f613.chunk.css",
-    "static/js/2.5424df2a.chunk.js": "/senior-citizen-reporting/static/js/2.5424df2a.chunk.js",
-    "static/js/2.5424df2a.chunk.js.map": "/senior-citizen-reporting/static/js/2.5424df2a.chunk.js.map",
+    "static/js/2.f3356869.chunk.js": "/senior-citizen-reporting/static/js/2.f3356869.chunk.js",
+    "static/js/2.f3356869.chunk.js.map": "/senior-citizen-reporting/static/js/2.f3356869.chunk.js.map",
     "index.html": "/senior-citizen-reporting/index.html",
     "static/css/2.7ab6f613.chunk.css.map": "/senior-citizen-reporting/static/css/2.7ab6f613.chunk.css.map",
     "static/css/main.a1b081d2.chunk.css.map": "/senior-citizen-reporting/static/css/main.a1b081d2.chunk.css.map",
-    "static/js/2.5424df2a.chunk.js.LICENSE.txt": "/senior-citizen-reporting/static/js/2.5424df2a.chunk.js.LICENSE.txt",
+    "static/js/2.f3356869.chunk.js.LICENSE.txt": "/senior-citizen-reporting/static/js/2.f3356869.chunk.js.LICENSE.txt",
     "static/media/2010至2020我国老年人口数及占总人口比例的变化.gif": "/senior-citizen-reporting/static/media/2010至2020我国老年人口数及占总人口比例的变化.5258d290.gif",
     "static/media/2016年至2021年互联网网民数量及普及率.gif": "/senior-citizen-reporting/static/media/2016年至2021年互联网网民数量及普及率.aafa8d9a.gif",
     "static/media/2016年至2021年网民年龄结构变化.gif": "/senior-citizen-reporting/static/media/2016年至2021年网民年龄结构变化.ffea008a.gif",
@@ -57,8 +57,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b86347a.js",
     "static/css/2.7ab6f613.chunk.css",
-    "static/js/2.5424df2a.chunk.js",
+    "static/js/2.f3356869.chunk.js",
     "static/css/main.a1b081d2.chunk.css",
-    "static/js/main.ec0e6422.chunk.js"
+    "static/js/main.d90a73fe.chunk.js"
   ]
 }
