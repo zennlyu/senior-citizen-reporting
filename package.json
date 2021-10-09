@@ -22,9 +22,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
-    "compile-sass": "node-sass src/assets/scss/paper-kit.scss src/assets/css/paper-kit.css",
-    "minify-sass": "node-sass src/assets/scss/paper-kit.scss src/assets/css/paper-kit.min.css --output-style compressed",
-    "map-sass": "node-sass src/assets/scss/paper-kit.scss src/assets/css/paper-kit.css --source-map true",
+    "compile-sass": "node-sass src/assets/scss/senior-main.scss src/assets/css/senior-main.css",
+    "minify-sass": "node-sass src/assets/scss/senior-main.scss src/assets/css/senior-main.min.css --output-style compressed",
+    "map-sass": "node-sass src/assets/scss/senior-main.scss src/assets/css/senior-main.css --source-map true",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -53,11 +53,7 @@
     "gulp-append-prepend": "1.0.8"
   },
   "description": "Paper Kit React is a free Bootstrap 4, React, React Hooks and Reactstrap UI Kit with pale colors, beautiful typography and thoughtful drawings. We've created it having paper and drawings in mind.",
-  "main": "src/assets/scss/paper-kit.scss",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/paper-kit-react.git"
-  },
+  "main": "src/assets/scss/senior-main.scss",
   "keywords": [
     "react",
     "reactstrap",

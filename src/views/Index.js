@@ -3,15 +3,10 @@ import React from "react";
 // reactstrap components
 
 // core components
-import IndexNavbar from "components/Navbars/IndexNavbar.js";
-import IndexHeader from "components/Headers/IndexHeader.js";
-import DemoFooter from "components/Footers/DemoFooter.js";
-
 // index sections
-
-import SectionMarkdown from "./index-sections/SectionMarkdown";
-import SectionTypo from "./index-sections/SectionTypo";
-import RegisterPage from "./examples/RegisterPage";
+import SectionTypography from "./index-sections/SectionTypography";
+import RegisterPage from "./ch-options/RegisterPage";
+import IndexNavbar from "../components/Navbars/IndexNavbar";
 
 function Index() {
   document.documentElement.classList.remove("nav-open");
@@ -23,13 +18,10 @@ function Index() {
   });
   return (
     <>
-      <IndexNavbar />
-      <IndexHeader />
-      <div className="main">
-          <SectionTypo />
-          <SectionMarkdown />
-          <RegisterPage />
-      </div>
+        <div className="main">
+            <SectionTypography />
+            <RegisterPage />
+        </div>
     </>
   );
 }

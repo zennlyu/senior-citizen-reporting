@@ -1,0 +1,65 @@
+/*!
+
+ =========================================================
+ * Paper Kit React - v1.3.0 based on Paper Kit - v2.2.0
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/paper-kit-2
+ * Copyright 2021 Creative Tim (http://www.creative-tim.com)
+
+ * Designed by www.invisionapp.com Coded by www.creative-tim.com
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@import 'senior-main/variables';
+@import 'senior-main/mixins';
+
+// Plugins CSS
+@import "senior-main/plugins/plugin-bootstrap-switch";
+@import "senior-main/plugins/plugin-nouislider";
+@import "senior-main/plugins/plugin-datepicker";
+
+// Core CSS
+@import "senior-main/buttons";
+@import "senior-main/inputs";
+@import "senior-main/checkbox-radio";
+@import "senior-main/progress-bars";
+@import "senior-main/badges";
+@import "senior-main/pagination";
+@import "senior-main/typography";
+@import "senior-main/misc";
+@import "senior-main/labels";
+
+// components
+@import "senior-main/nucleo-icons";
+@import "senior-main/social-buttons";
+@import "senior-main/tabs-navs";
+@import "senior-main/navbars";
+@import "senior-main/dropdown";
+@import "senior-main/alerts";
+@import "senior-main/images";
+@import "senior-main/tooltips-and-popovers";
+@import "senior-main/modal";
+@import "senior-main/icons";
+@import "senior-main/carousel";
+@import "senior-main/footers";
+
+// Cards
+@import "senior-main/cards";
+@import "senior-main/cards/card-plain";
+@import "senior-main/cards/card-register";
+@import "senior-main/cards/card-profile";
+
+// example pages and sections
+@import "senior-main/examples";
+@import "senior-main/sections";
+
+
+@import "senior-main/responsive";
+
+// React Differences
+@import "react/react-differences.scss";
