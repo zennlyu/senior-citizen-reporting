@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/senior-citizen-reporting/static/css/main.a1b081d2.chunk.css",
-    "main.js": "/senior-citizen-reporting/static/js/main.0f5d7b7e.chunk.js",
-    "main.js.map": "/senior-citizen-reporting/static/js/main.0f5d7b7e.chunk.js.map",
+    "main.js": "/senior-citizen-reporting/static/js/main.6330a005.chunk.js",
+    "main.js.map": "/senior-citizen-reporting/static/js/main.6330a005.chunk.js.map",
     "runtime-main.js": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js",
     "runtime-main.js.map": "/senior-citizen-reporting/static/js/runtime-main.4b86347a.js.map",
     "static/css/2.7ab6f613.chunk.css": "/senior-citizen-reporting/static/css/2.7ab6f613.chunk.css",
@@ -61,6 +61,6 @@
     "static/css/2.7ab6f613.chunk.css",
     "static/js/2.75dbd8f2.chunk.js",
     "static/css/main.a1b081d2.chunk.css",
-    "static/js/main.0f5d7b7e.chunk.js"
+    "static/js/main.6330a005.chunk.js"
   ]
 }
