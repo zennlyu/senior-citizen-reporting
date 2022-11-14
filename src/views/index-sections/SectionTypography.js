@@ -7,7 +7,7 @@ import SectionOld1 from "./SectionOld1";
 import SectionOld2 from "./SectionOld2";
 import SectionOld3 from "./SectionOld3";
 import Ch01 from "../ch-options/Ch01";
-import IndexHeader from "../../components/headers/indexHeader";
+import IndexHeader from "../../components/Headers/IndexHeader";
 import Ch02 from "../ch-options/Ch02";
 import Ch03 from "../ch-options/Ch03";
 import Ch04 from "../ch-options/Ch04";

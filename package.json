@@ -6,7 +6,7 @@
     "classnames": "2.2.6",
     "echarts-for-react": "^3.0.1",
     "moment": "2.29.1",
-    "node-sass": "5.0.0",
+    "node-sass": "^8.0.0",
     "nouislider": "14.6.4",
     "react": "17.0.2",
     "react-datetime": "3.0.4",

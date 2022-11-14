@@ -4,7 +4,6 @@ import React from "react";
 import { Button, Container } from "reactstrap";
 
 // core components
-
 function Ch02() {
   let pageHeader = React.createRef();
 

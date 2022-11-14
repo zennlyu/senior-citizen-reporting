@@ -3,10 +3,10 @@ import React from "react";
 // reactstrap components
 
 // core components
-// index sections
+// public sections
 import SectionTypography from "./index-sections/SectionTypography";
 import RegisterPage from "./ch-options/RegisterPage";
-import IndexNavbar from "../components/navbars/indexNavbar";
+import IndexNavbar from "../components/Navbars/IndexNavbar";
 
 function Index() {
   document.documentElement.classList.remove("nav-open");
